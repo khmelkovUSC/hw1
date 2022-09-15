@@ -1,0 +1,6 @@
+*.o
+.clang-format
+.clang-tidy
+split
+ulliststr_test
+.vscode/settings.json
